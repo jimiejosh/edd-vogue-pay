@@ -1,4 +1,4 @@
-=== Voguepay Payment Gateway for Easy Digital Downloads ===
+## Voguepay Payment Gateway for Easy Digital Downloads ===
 Contributors: josh jimie
 
 Donate link: http://nextordertechnology.com/donate/
@@ -100,7 +100,7 @@ You can also add me on Facebook! **[Seyi J. Max](http://facebook.com/codedjimie)
 
 
 = Contribute =
-To contribute to this plugin feel free to fork it on GitHub [Voguepay Easy Digital Downloads Payment Gateway on GitHub](https://github.com/jimiejosh/payment-gateway-easydigitaldownloads-voguepay)
+To contribute to this plugin feel free to fork it on GitHub [Voguepay Easy Digital Downloads Payment Gateway on GitHub](https://github.com/jimiejosh/edd-vogue-pay)
 
 
 == Changelog ==
